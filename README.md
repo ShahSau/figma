@@ -1,3 +1,3 @@
 # figma
 
-### Web page designs using figma
+### Web pages designs using figma
